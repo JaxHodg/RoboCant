@@ -1,0 +1,5 @@
+id,int,PRIMARY KEY
+balance,int,NOT NULL
+accHolder,varchar(30),NOT NULL
+cupsTaken,int,NOT NULL
+cupsReturned,int, NOT NULL

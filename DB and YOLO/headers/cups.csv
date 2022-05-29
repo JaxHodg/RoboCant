@@ -1,0 +1,3 @@
+cupId,int,PRIMARY KEY
+cupName,varchar(10),NOT NULL
+accId,int
